@@ -1,5 +1,9 @@
 circket
 football
+<<<<<<< HEAD
 sixer
 basketball
 
+=======
+sandeep
+>>>>>>> 49c829a7ca660dfa39b0d3a18a8ace0d3cc4fde1
